@@ -15,9 +15,7 @@ x is any positive integer.
 
 #example
 > node runner.js --num=6
-
 > factorial of 6 is 720
-
 > sum of 720 is 9
 
 ##test
