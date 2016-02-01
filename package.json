@@ -1,0 +1,18 @@
+{
+  "name": "factorial",
+  "version": "1.0.0",
+  "description": "finds sums of factorials",
+  "main": "runner.js",
+  "dependencies": {
+    "argify": "^0.0.3",
+    "should": "^8.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Scott Price",
+  "license": "ISC"
+}
