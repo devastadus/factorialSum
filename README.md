@@ -18,7 +18,7 @@ x is any positive integer.
 > sum of 720 is 9
 
 ##test
->mocha
+>npm test
 
 #Description
 
