@@ -21,5 +21,5 @@ x is any positive integer.
 >mocha
 
 #Description
-##How I went about the problem
+##How I went about the problem..
 
